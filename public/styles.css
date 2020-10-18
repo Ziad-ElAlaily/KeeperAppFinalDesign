@@ -8,6 +8,8 @@ html {
 }
 body {
   background: #eee;
+  /* background-color: #878c00; */
+  background-image: url("https://www.transparenttextures.com/patterns/arabesque.png");
   padding: 0 16px;
 }
 
